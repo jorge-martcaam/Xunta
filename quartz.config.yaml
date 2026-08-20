@@ -114,7 +114,11 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    # Disabled: this pulls in an *Obsidian* CSS theme skin (e.g. "aura", "nord") on top
+    # of the base site — it's an optional visual add-on, not required to build. The
+    # bundled "default" theme name failed to resolve as an installable module in CI.
+    # Site colors/typography are already set above under `configuration.theme`.
+    enabled: false
     options:
       theme: default
       mode: both
