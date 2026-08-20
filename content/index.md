@@ -1,9 +1,9 @@
 ---
 title: Xunta
-description: Artículos y notas, escritos en Obsidian y publicados con Quartz.
+description: Artigos, notas e coñecemento vario. A idea é analizar a situación galega en función de fontes oficiais. INE, IGE, orzamentos varios...
 ---
 
-Bienvenido/a. Este sitio se genera a partir de las notas de un vault de Obsidian.
+Benvido/a. Este sitio xérase a partir da procura de información referente a Galicia, intentando aprender a realidade máis alá do discurso oficial. Úsanse Github Pages, Obsidian e o cerebro. 
 
 ## Temas
 
