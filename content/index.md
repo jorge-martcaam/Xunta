@@ -11,4 +11,4 @@ Benvido/a. Este sitio xérase a partir da procura de información referente a Ga
   - [[Saúde|Saúde]]
   - [[Sergas|Sergas]]
   - [[Bibliografía|Bibliografía]]
-- [[Educación formal|Topic B]]
+- [[Educación formal|Educación]]
