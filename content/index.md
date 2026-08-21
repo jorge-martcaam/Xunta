@@ -7,5 +7,8 @@ Benvido/a. Este sitio xérase a partir da procura de información referente a Ga
 
 ## Temas
 
-- [[topic-a/bienvenida|Topic A]]
+- **Saúde e Sergas**
+  - [[Saúde e Sergas/Saúde|Saúde]]
+  - [[Saúde e Sergas/Sergas|Sergas]]
+  - [[Saúde e Sergas/Bibliografía|Bibliografía]]
 - [[topic-b/bienvenida|Topic B]]
