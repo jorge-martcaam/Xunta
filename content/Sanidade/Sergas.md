@@ -1,8 +1,9 @@
 ---
 title: Sergas
-description: Nesta páxina analízase a información referente á saúde galega. É dicir, comportamentos, políticas, orzamentos...
+description: Nesta páxina analízase a información referente ao organismo galego. É dicir, políticas, orzamentos, infraestructuras...
 tags:
-  - placeholder
+  - Sergas
+  - Sanidade
 ---
 # OS ORZAMENTOS
 
@@ -48,15 +49,12 @@ Se non é que haxa menos cartos, que pode ser? Buscando información sobre núme
 
 Tendo en conta a grande dispersión poboacional, esta baixada constante non parece atinada. Pero igual non é tan mala a decisión, xa que os sitios onde desapareceron eses hospitais puideron reducir tamén en poboación, facendo que o custo de manter un hospital na zona sexa desproporcionado. Para comezar, o número de habitantes por hospital non amosa unha imaxe optimista. 
 
+### Seguinte información a explorar
+Tamén é interesante comprobar non só o número de hospitais, se non o número de centros sanitarios, camas dispoñibles e traballadores. Comézase de tódolos xeitos comprobando a dispersión poboacional e onde desapareceron ditos hospitais para confirmar se esa desaparición afecta ou non. Falar do sobrecusto orzamentario que implica a dispersión tanto en sanidade como en educación
 
-Tamén é interesante comprobar non só o número de hospitais, se non o número de centros sanitarios, camas dispoñibles e traballadores. Comézase de tódolos xeitos comprobando a dispersión poboacional e onde desapareceron ditos hospitais para confirmar se esa desaparición afecta ou non. 
+Falar da suposición de que no ámbito sanitario tamén pasa o que no educativo, que se están contabilizando dous traballadores a media xornada como, efectivamente dous traballadores, empeorando o servizo porque hai, realmente, menos xornadas cubertas. 
 
-  
-Falar da teoría de Clara de que no ámbito sanitario tamén pasa o que no educativo, que se están contabilizando dous traballadores a media xornada como, efectivamente dous traballadores, empeorando o servizo porque hai, realmente, menos xornadas cubertas. 
-
-Información sobre listaxes de agarda.
-
-falar do sobrecusto orzamentario que implica a dispersión tanto en sanidade como en educación
+Buscar información sobre listaxes de agarda.
 
 **
 

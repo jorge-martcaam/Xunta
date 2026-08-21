@@ -1,8 +1,9 @@
 ---
 title: Saúde
-description: Nesta páxina analízase a información referente á saúde galega. É dicir, comportamentos, políticas, orzamentos...
+description: Nesta páxina analízase a información referente á saúde galega. É dicir, comportamentos, benestar físico e mental...
 tags:
-  - placeholder
+  - Saúde
+  - Sanidade
 ---
 **  
 
