@@ -1,5 +1,5 @@
 ---
-title: Saúde e SERGAS
+title: Sergas
 description: Nesta páxina analízase a información referente á saúde galega. É dicir, comportamentos, políticas, orzamentos...
 tags:
   - placeholder
