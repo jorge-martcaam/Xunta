@@ -1,3 +1,4 @@
+
 **
 
 [https://www.nosdiario.gal/articulo/social/xunta-vai-pagar-ano-mais-150-millons-aos-hospitais-privados-da-galiza/20260124095414245240.html](https://www.nosdiario.gal/articulo/social/xunta-vai-pagar-ano-mais-150-millons-aos-hospitais-privados-da-galiza/20260124095414245240.html)
