@@ -90,4 +90,4 @@ A partir de 2015 a situación emendouse de forma radical, caendo a niveis practi
 ---
 
 **
-Volver ao [[index|inicio]] ou consultar a [[Bibliografía]].
+Volve ao [[index|inicio]] ou consultar a [[Sanidade/Bibliografía]].

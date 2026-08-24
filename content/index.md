@@ -10,5 +10,5 @@ Benvido/a. Este sitio xérase a partir da procura de información referente a Ga
 - **Saúde e Sergas**
   - [[Saúde|Saúde]]
   - [[Sergas|Sergas]]
-  - [[Bibliografía|Bibliografía]]
+  - [[Sanidade/Bibliografía|Bibliografía]]
 - [[Educación formal|Educación]]

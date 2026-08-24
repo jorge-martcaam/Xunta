@@ -1,0 +1,1 @@
+[https://www.nosdiario.gal/articulo/politica/problema-cidadania-galega-madrid/20251222071002242760.html](https://www.nosdiario.gal/articulo/politica/problema-cidadania-galega-madrid/20251222071002242760.html)
