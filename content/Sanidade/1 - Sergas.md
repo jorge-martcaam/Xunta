@@ -79,4 +79,4 @@ Buscar información sobre listaxes de agarda.
 
 **
 
-Volve ao [[index|inicio]] ou consultar a [[Sanidade/Bibliografía]].
+Volve ao [[index|inicio]] ou consultar a [[999 - Bibliografía sanidade]].

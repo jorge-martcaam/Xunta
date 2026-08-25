@@ -7,7 +7,7 @@ tags:
 ---
 # A SAÚDE EN GALICIA: ENTRE A LONXEVIDADE E A PERCEPCIÓN
 
-Se na páxina do [[Sergas]] quedaba claro que «dato mata relato» no que a orzamentos e xestión se refire, cando se baixa ao terreo da saúde real da poboación a cousa vólvese aínda máis interesante. Non todo son os millóns que entran ou saen das contas públicas; o que verdadeiramente importa é como vive a xente, de que enferma, como se coida e que calidade de vida ten.
+Se na páxina do [[1 - Sergas]] quedaba claro que «dato mata relato» no que a orzamentos e xestión se refire, cando se baixa ao terreo da saúde real da poboación a cousa vólvese aínda máis interesante. Non todo son os millóns que entran ou saen das contas públicas; o que verdadeiramente importa é como vive a xente, de que enferma, como se coida e que calidade de vida ten.
 
 Cando se escoitan os discursos habituais, o panorama adoita debuxarse en branco e negro: ou ben vivimos no mellor dos mundos pola nosa dieta atlántica e o aire puro, ou ben o país enteiro está nun colapso sanitario absoluto. Pero que din as estatísticas oficiais cando comparamos a Galicia coa media estatal dende principios de século?
 
@@ -85,9 +85,9 @@ A partir de 2015 a situación emendouse de forma radical, caendo a niveis practi
 
 1. **A demografía manda**: Galicia non ten un problema agudo de hábitos letais como o tabaco (onde estamos mellor ca media), senón unha pirámide poboacional vella que dispara a morbilidade crónica (**40%**), as limitacións diarias e a sensación subxectiva de mala saúde (**36,5%**).
 2. **O reto preventivo é o movemento**: Co **57%** da poboación con sobrepeso e só un **22%** que fai deporte regular, o gasto sanitario futuro seguirá tensionado non só por cantos anos vivamos, senón por como os vivamos.
-3. **A xestión pública importa nos momentos de crise**: Cando o sistema se precariza (como aconteceu entre 2009 e 2014), a porcentaxe de desatención médica dispárase ata tocar case ao 10% da cidadanía, un aviso a navegantes para os xestores presentes e futuros do [[Sergas]].
+3. **A xestión pública importa nos momentos de crise**: Cando o sistema se precariza (como aconteceu entre 2009 e 2014), a porcentaxe de desatención médica dispárase ata tocar case ao 10% da cidadanía, un aviso a navegantes para os xestores presentes e futuros do [[1 - Sergas]].
 
 ---
 
 **
-Volve ao [[index|inicio]] ou consultar a [[Sanidade/Bibliografía]].
+Volve ao [[index|inicio]] ou consultar a [[999 - Bibliografía sanidade]].

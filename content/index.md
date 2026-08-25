@@ -8,7 +8,7 @@ Benvido/a. Este sitio xérase a partir da procura de información referente a Ga
 ## Temas
 
 - **Saúde e Sergas**
-  - [[Saúde|Saúde]]
-  - [[Sergas|Sergas]]
-  - [[Sanidade/Bibliografía|Bibliografía]]
-- [[Educación formal|Educación]]
+  - [[2 - Saúde|Saúde]]
+  - [[1 - Sergas|Sergas]]
+  - [[999 - Bibliografía sanidade|Bibliografía sanidade]]
+- [[1 - Educación formal|Educación]]
