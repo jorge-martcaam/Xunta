@@ -1,1 +1,5 @@
-[]
+[
+  "fancy-charts",
+  "obsidian-plotly",
+  "obsidian-vega"
+]
